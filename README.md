@@ -13,4 +13,14 @@
   <tr><th colspan="2">日天月天あり</th><th colspan="2">日天月天なし</th><th colspan="2">日天月天あり</th><th colspan="2">日天月天なし</th></tr>
   <tr><th>金神水神あり</th><th>金神水神なし</th><th>金神水神あり</th><th>金神水神なし</th><th>金神水神あり</th><th>金神水神なし</th><th>金神水神あり</th><th>金神水神なし</th></tr>
   <tr><th>狭義</th><th>狭義</th><th>狭義</th><th>広義／保留</th><th colspan="3">未定義／対象外</th><th>対象外</th></tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
