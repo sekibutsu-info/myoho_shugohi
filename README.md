@@ -18,7 +18,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/日天月天水神金神碑（妙法加藤明神）.jpg" width="100"></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
