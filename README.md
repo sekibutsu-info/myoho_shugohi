@@ -14,11 +14,11 @@
   <tr><th>金神水神あり</th><th>金神水神なし</th><th>金神水神あり</th><th>金神水神なし</th><th>金神水神あり</th><th>金神水神なし</th><th>金神水神あり</th><th>金神水神なし</th></tr>
   <tr><th>狭義</th><th>狭義</th><th>狭義</th><th>広義／保留</th><th colspan="3">未定義／対象外</th><th>対象外</th></tr>
   <tr>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（相模原市中央区宮下本町）.jpg" width="100"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（昭島市・観音寺）.jpg" width="100"></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法大嶋明神守碑（八王子市・七面堂）.jpg" width="100"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/日天月天水神金神碑（妙法加藤明神）.jpg" width="100"></td>
     <td></td>
     <td></td>
     <td></td>
