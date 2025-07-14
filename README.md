@@ -7,3 +7,10 @@
 * 未分類 - 主銘文に「妙法」を含まないが、清正光<sub>※</sub>との関連が疑われる信仰碑
 
 ※清正光の流れをくむ妙法加藤明神を含む
+
+<table>
+  <tr><th colspan="4">妙法あり</th><th colspan="4">妙法なし</th></tr>
+  <tr><th colspan="2">日天月天あり</th><th colspan="2">日天月天なし</th><th colspan="2">日天月天あり</th><th colspan="2">日天月天なし</th></tr>
+  <tr><th>金神水神あり</th><th>金神水神なし</th><th>金神水神あり</th><th>金神水神なし</th><th>金神水神あり</th><th>金神水神なし</th><th>金神水神あり</th><th>金神水神なし</th></tr>
+  <tr><th>狭義</th><th>狭義</th><th>狭義</th><th>広義／保留</th><th colspan="3">未分類／無関係</th><th>無関係</th></tr>
+</table>
