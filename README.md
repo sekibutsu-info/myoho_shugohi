@@ -18,7 +18,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護金神碑（志田山朝日寺）.jpg" width="120" title="妙法大嶋明神守"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護金神碑（志田山朝日寺）.jpg" width="120" title="妙法守護金神"></td>
     <td></td>
     <td></td>
     <td></td>
