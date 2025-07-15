@@ -69,6 +69,28 @@
     <td></td>
   </tr>
   <tr>
+    <td>明治20年</td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（駒木野稲荷神社）.jpg" width="150" title="妙法守護"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>明治28年</td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（厚木市金田）.jpg" width="150" title="妙法三十番神守護"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>明治44年</td>
     <td></td>
     <td></td>
@@ -91,6 +113,17 @@
     <td></td>
   </tr>
   <tr>
+    <td>昭和2年</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/八大龍王塔（大島中ノ郷のヤツボ）.jpg" width="150" title="八大龍王塔"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>昭和8年</td>
     <td></td>
     <td></td>
@@ -102,11 +135,33 @@
     <td></td>
   </tr>
   <tr>
+    <td>昭和10年</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法金神社碑（中野神社）.jpg" width="150" title="妙法金神社"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>昭和12年</td>
     <td></td>
     <td></td>
     <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護道祖神（御嶽神社）.jpg" width="150" title="妙法守護道祖神"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>昭和21年</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護神碑（中野神社）.jpg" width="150" title="妙法守護神"></td>
     <td></td>
     <td></td>
     <td></td>
