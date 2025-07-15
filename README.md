@@ -18,7 +18,7 @@
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（八王子市・善龍寺）.jpg" width="100"></td>
     <td></td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法大嶋明神守碑（八王子市・七面堂）.jpg" width="100"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法大嶋明神守碑（八王子市・七面堂）.jpg" width="100" title="妙法大嶋明神守"></td>
     <td></td>
     <td></td>
     <td></td>
@@ -29,7 +29,7 @@
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（町田市相原町）2.jpg" width="100"></td>
     <td></td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護雄神碑（町田市・七面堂）.jpg" width="100"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護雄神碑（町田市・七面堂）.jpg" width="100" title="妙法守護雄神"></td>
     <td></td>
     <td></td>
     <td></td>
@@ -95,7 +95,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護道祖神（御嶽神社）.jpg" width="100"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護道祖神（御嶽神社）.jpg" width="100" title="妙法守護道祖神"></td>
     <td></td>
     <td></td>
     <td></td>
