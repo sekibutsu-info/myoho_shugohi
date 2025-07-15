@@ -15,7 +15,7 @@
   <tr><th>狭義（典型）</th><th>狭義</th><th>狭義</th><th>広義／保留</th><th colspan="3">未定義</th><th>対象外</th></tr>
   <tr>
     <td>明治15年</td>
-    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（八王子市・善龍寺）.jpg" width="100"></td>
     <td></td>
     <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法大嶋明神守碑（八王子市・七面堂）.jpg" width="100"></td>
