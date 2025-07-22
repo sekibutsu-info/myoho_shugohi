@@ -8,6 +8,10 @@
 
 ※清正光の流れをくむ妙法加藤明神を含む
 
+### 造立数
+![造立数](./造立数グラフ.png)
+
+### 年表
 <table>
   <tr><th rowspan="4"><th colspan="4">妙法あり</th><th colspan="4">妙法なし</th></tr>
   <tr><th colspan="2">日天月天あり</th><th colspan="2">日天月天なし</th><th colspan="2">日天月天あり</th><th colspan="2">日天月天なし</th></tr>
@@ -170,6 +174,3 @@
     <td></td>
   </tr>
 </table>
-
-### 造立数
-![造立数](./造立年グラフ.png)
