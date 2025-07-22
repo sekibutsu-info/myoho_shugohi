@@ -3,7 +3,7 @@ name: Update Graph on CSV Change
 on:
   push:
     paths:
-      - 'myoho_shugohi.csv'
+      - '妙法守護碑.csv'
 
 jobs:
   generate-graph:
@@ -22,6 +22,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pandas matplotlib
+        pip install setuptools japanize-matplotlib
 
     - name: グラフ画像を生成
       run: python generate_graph.py
@@ -31,5 +32,5 @@ jobs:
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add graph.png
-        git commit -m "Auto-update graph from myoho_shugohi.csv" || echo "No changes"
+        git commit -m "Auto-update graph from 妙法守護碑.csv" || echo "No changes"
         git push
