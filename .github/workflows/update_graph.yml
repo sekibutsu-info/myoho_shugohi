@@ -34,4 +34,5 @@ jobs:
         git config --global user.email 'github-actions@github.com'
         git add graph.png
         git commit -m "Auto-update graph from 妙法守護碑.csv" || echo "No changes"
+        git pull --rebase
         git push
