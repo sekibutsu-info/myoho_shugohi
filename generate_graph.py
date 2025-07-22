@@ -43,4 +43,4 @@ plt.legend(['狭義', '広義/保留', '未定義'])
 plt.tight_layout()
 
 # 画像保存
-plt.savefig('graph.png')
+plt.savefig('造立年グラフ.png')
