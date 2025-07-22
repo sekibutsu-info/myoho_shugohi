@@ -41,7 +41,6 @@ plt.ylabel('造立数')
 plt.xlabel('造立年')
 plt.legend(['狭義', '広義/保留', '未定義'])
 plt.tight_layout()
-plt.show()
 
 # 画像保存
 plt.savefig('graph.png')
