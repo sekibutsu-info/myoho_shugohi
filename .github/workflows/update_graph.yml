@@ -35,6 +35,6 @@ jobs:
         git fetch origin
         git checkout main
         git reset --soft origin/main
-        git add -f 造立年グラフ.png
-        git diff --cached --quiet || git commit -m "Auto-update 造立年グラフ.png from 妙法守護碑.csv"
+        git add -f 造立数グラフ.png
+        git diff --cached --quiet || git commit -m "Auto-update 造立数グラフ.png from 妙法守護碑.csv"
         git push origin main --force
