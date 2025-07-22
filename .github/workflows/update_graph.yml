@@ -32,6 +32,9 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
-        git add 造立年グラフ.png
-        git commit -m "Auto-update graph from 妙法守護碑.csv" || echo "No changes"
-        git push --force
+        git fetch origin
+        git checkout main
+        git reset --soft origin/main
+        git add -f 造立年グラフ.png
+        git diff --cached --quiet || git commit -m "Auto-update 造立年グラフ.png from 妙法守護碑.csv"
+        git push origin main --force
