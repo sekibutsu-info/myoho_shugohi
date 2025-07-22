@@ -35,4 +35,4 @@ jobs:
         git add graph.png
         git commit -m "Auto-update graph from 妙法守護碑.csv" || echo "No changes"
         git pull --rebase
-        git push
+        git push --force
