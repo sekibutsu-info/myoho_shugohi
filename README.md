@@ -31,6 +31,17 @@
     <td></td>
   </tr>
   <tr>
+    <td>明治13年</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護金神碑（井原寺）.jpg" width="150" title="妙法守護金神"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>明治15年</td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（八王子市・善龍寺）.jpg" width="150" title="妙法守護"></td>
     <td></td>
@@ -110,6 +121,17 @@
     <td></td>
   </tr>
   <tr>
+    <td>大正14年</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/金神水神守護所碑（諏訪神社）.jpg" width="150" title="金神水神守護所"></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>大正15年</td>
     <td></td>
     <td></td>
@@ -128,6 +150,16 @@
     <td></td>
     <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/八大龍王塔（大島中ノ郷のヤツボ）.jpg" width="150" title="八大龍王塔"></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <td>昭和3年</td>
+    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/日天月天妙法守護金神碑（相模原市緑区青野原）.jpg" width="150" title="妙法守護金神"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
