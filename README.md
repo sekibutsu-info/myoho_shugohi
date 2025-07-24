@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>明治15年</td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（八王子市・善龍寺）.jpg" width="150" title="妙法守護"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（八王子市・善龍寺）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
     <td></td>
     <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法大嶋明神守碑（八王子市・七面堂）.jpg" width="150" title="妙法大嶋明神守"><br>
@@ -55,8 +55,8 @@
   </tr>
   <tr>
     <td>明治16年</td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（町田市相原町）2.jpg" width="150" title="妙法守護"><br>
-        <img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（町田市・大戸観音堂）.jpg" width="150" title="妙法"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（町田市相原町）2.jpg" width="150" title="日天 月天／妙法守護／金神 水神"><br>
+        <img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（町田市・大戸観音堂）.jpg" width="150" title="日天 妙法 月天／金神 水神"></td>
     <td></td>
     <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護雄神碑（町田市・七面堂）.jpg" width="150" title="妙法守護雄神"></td>
@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>明治17年</td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（町田市相原町）.jpg" width="150" title="妙法守護"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（町田市相原町）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
     <td></td>
     <td></td>
     <td></td>
@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td>明治18年</td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（相模原市中央区宮下本町）.jpg" width="150" title="妙法守護"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（相模原市中央区宮下本町）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
     <td></td>
     <td></td>
     <td></td>
@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td>明治20年</td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（駒木野稲荷神社）.jpg" width="150" title="妙法守護"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（駒木野稲荷神社）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
     <td></td>
     <td></td>
     <td></td>
@@ -100,7 +100,7 @@
   </tr>
   <tr>
     <td>明治28年</td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（厚木市金田）.jpg" width="150" title="妙法三十番神守護"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（厚木市金田）.jpg" width="150" title="日天 月天／妙法三十番神守護／金神 水神"></td>
     <td></td>
     <td></td>
     <td></td>
@@ -113,7 +113,7 @@
     <td>明治44年</td>
     <td></td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（昭島市・観音寺）.jpg" width="150" title="妙法守護"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（昭島市・観音寺）.jpg" width="150" title="妙法守護／金神 水神"></td>
     <td></td>
     <td></td>
     <td></td>
@@ -128,7 +128,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/金神水神守護所碑（諏訪神社）.jpg" width="150" title="金神水神守護所"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/金神水神守護所碑（諏訪神社）.jpg" width="150" title="金神 水神／守護所"></td>
     <td></td>
   </tr>
   <tr>
@@ -137,7 +137,7 @@
     <td></td>
     <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護神碑（妙法加藤明神）.jpg" width="150" title="妙法守護神"></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/日天月天水神金神碑（妙法加藤明神）.jpg" width="150" title=""></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/日天月天水神金神碑（妙法加藤明神）.jpg" width="150" title="日天 月天／水神 金神"></td>
     <td></td>
     <td></td>
     <td></td>
@@ -149,13 +149,13 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/八大龍王塔（大島中ノ郷のヤツボ）.jpg" width="150" title="八大龍王塔"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/八大龍王塔（大島中ノ郷のヤツボ）.jpg" width="150" title="大日天 八大龍王塔 大月天"></td>
     <td></td>
     <td></td>
   </tr>
     <td>昭和3年</td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/日天月天妙法守護金神碑（相模原市緑区青野原）.jpg" width="150" title="妙法守護金神"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/日天月天妙法守護金神碑（相模原市緑区青野原）.jpg" width="150" title="日天 妙法守護金神 月天"></td>
     <td></td>
     <td></td>
     <td></td>
@@ -170,7 +170,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/日天月天金神碑（町田市相原町）.jpg" width="150" title="金神"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/日天月天金神碑（町田市相原町）.jpg" width="150" title="日天 月天／金神"></td>
     <td></td>
     <td></td>
   </tr>
