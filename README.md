@@ -15,7 +15,7 @@
 
 ### 年表
 <table>
-  <tr><th rowspan="4"><th colspan="6">妙法あり</th><th colspan="4">妙法なし</th></tr>
+  <tr><th rowspan="4">造立年</th><th colspan="6">妙法あり</th><th colspan="4">妙法なし</th></tr>
   <tr><th colspan="3">日天月天あり</th><th colspan="3">日天月天なし</th><th colspan="3">日天月天あり</th><th>日天月天なし</th></tr>
   <tr><th>金神水神あり</th><th>金神のみ</th><th>金神水神なし</th><th>金神水神あり</th><th>金神のみ</th><th>金神水神なし</th><th>金神水神あり</th><th>金神のみ</th><th>金神水神なし</th><th>金神水神あり</th></tr>
   <tr><th>狭義（典型）</th><th colspan="3">狭義</th><th colspan="2">広義／保留</th><th colspan="4">未定義</th></tr>
@@ -236,6 +236,19 @@
     <td></td>
     <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護神碑（中野神社）.jpg" width="150" title="妙法守護神"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>不明</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護水神碑（志田山朝日寺）.jpg" width="150" title="妙法守護水神"></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
