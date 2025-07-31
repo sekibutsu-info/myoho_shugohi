@@ -247,9 +247,9 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護水神碑（志田山朝日寺）.jpg" width="150" title="妙法守護水神"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護水神碑（志田山朝日寺）.jpg" width="150" title="妙法／守護水神"></td>
     <td></td>
-    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/南無辨天碑（市杵島神社）.jpg" width="150" title="日天 月天／金神 南無辨天 水神"></td>
     <td></td>
     <td></td>
     <td></td>
