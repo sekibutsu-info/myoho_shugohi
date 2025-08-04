@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td>明治17年</td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（町田市相原町）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（相模原市緑区中野）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
     <td></td>
     <td></td>
     <td></td>
