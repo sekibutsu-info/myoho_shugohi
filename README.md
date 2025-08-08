@@ -50,7 +50,7 @@
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（八王子市・善龍寺）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（相模原市緑区又野）.jpg" width="150" title="妙法守護／金神 水神"></td></td>
     <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法大嶋明神守碑（八王子市・七面堂）.jpg" width="150" title="妙法大嶋明神守"><br>
         <img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法市明神碑（町田市・七面堂）.jpg" width="150" title="妙法市明神"></td>
