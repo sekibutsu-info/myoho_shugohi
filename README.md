@@ -66,7 +66,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法金神碑（相模原市緑区牧野）.jpg" width="150" title="妙法金□"></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護雄神碑（町田市・七面堂）.jpg" width="150" title="妙法守護雄神"></td>
     <td></td>
     <td></td>
