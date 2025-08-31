@@ -13,6 +13,9 @@
 ### 造立数
 ![造立数](./造立数グラフ.png)
 
+### 分布
+狭義と広義の妙法守護碑（保留と未定義は除く）の![分布地図はこちら](https://github.com/sekibutsu-info/myoho_shugohi/blob/main/%E5%A6%99%E6%B3%95%E5%AE%88%E8%AD%B7%E7%A2%91.geojson)
+
 ### 年表
 <table>
   <tr><th rowspan="4">造立年</th><th colspan="6">妙法あり</th><th colspan="4">妙法なし</th></tr>
