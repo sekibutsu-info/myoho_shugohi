@@ -1,0 +1,37 @@
+name: Convert CSV to GeoJSON
+
+on:
+  push:
+    paths:
+      - '妙法守護碑.csv'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: チェックアウト
+        uses: actions/checkout@v3
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 依存インストール
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: CSV → GeoJSON 変換
+        run: python csv_to_geojson.py
+
+      - name: GeoJSON をコミット＆プッシュ
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git fetch origin
+          git checkout main
+          git reset --soft origin/main
+          git add -f 妙法守護碑.geojson
+          git diff --cached --quiet || git commit -m "Auto-generate 妙法守護碑.geojson from 妙法守護碑.csv"
+          git push origin main --force
