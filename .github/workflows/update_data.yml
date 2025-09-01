@@ -1,0 +1,42 @@
+name: Update Graph and GeoJSON from CSV
+
+on:
+  push:
+    paths:
+      - '妙法守護碑.csv'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: チェックアウト
+        uses: actions/checkout@v3
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 依存インストール
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas matplotlib
+          pip install setuptools japanize-matplotlib
+
+      - name: グラフ画像を生成
+        run: python generate_graph.py
+
+      - name: GeoJSON を生成
+        run: python csv_to_geojson.py
+
+      - name: 生成物をコミット＆force push（graph.png + data.geojson）
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git fetch origin
+          git checkout main
+          git reset --soft origin/main
+          git add -f 造立数グラフ.png 妙法守護碑.geojson
+          git diff --cached --quiet || git commit -m "Auto-update 造立数グラフ.png & 妙法守護碑.geojson from 妙法守護碑.csv"
+          git push origin main --force
