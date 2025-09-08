@@ -21,7 +21,7 @@ for index, row in df.iterrows():
         elif row['分類'] == '広義':
             count_wide[idx] += 1
         elif row['分類'] == '保留':
-            count_wide[idx] += 1        # 保留も広義に含める
+            count_undef[idx] += 1        # 保留は未定義に含める
         elif row['分類'] == '未定義':
             count_undef[idx] += 1
 
@@ -39,7 +39,7 @@ y_max = max(y_maxs) + 1
 plt.ylim(0, y_max)
 plt.ylabel('造立数')
 plt.xlabel('造立年')
-plt.legend(['狭義', '広義/保留', '未定義'])
+plt.legend(['狭義', '広義', '保留/未定義'])
 plt.tight_layout()
 
 # 画像保存
