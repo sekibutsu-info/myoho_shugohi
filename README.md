@@ -259,3 +259,6 @@
     <td></td>
   </tr>
 </table>
+
+### 参考文献
+小池隆[「妙法守護碑」](https://researchmap.jp/tk01k/published_papers/50023106)2025年
