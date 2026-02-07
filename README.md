@@ -28,7 +28,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="./photo/妙法守護金神碑（志田山朝日寺）.jpg" width="150" title="妙法守護金神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護金神碑（志田山朝日寺）.jpg" target="_blank"><img src="./photo/妙法守護金神碑（志田山朝日寺）.jpg" width="150" title="妙法守護金神"></a></td>
     <td></td>
     <td></td>
   </tr>
