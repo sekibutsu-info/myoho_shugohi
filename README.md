@@ -35,7 +35,7 @@
   <tr>
     <td>明治13年</td>
     <td></td>
-    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法水神金神守護碑（相模原市緑区青根）.jpg" width="150" title="妙法水神金神守護"></td>
     <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護金神碑（井原寺）.jpg" width="150" title="妙法守護金神"></td>
     <td></td>
