@@ -171,11 +171,11 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="./photo/金神水神守護所碑（諏訪神社）.jpg" width="150" title="金神 水神／守護所"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:金神水神守護所碑（諏訪神社）.jpg"><img src="./photo/金神水神守護所碑（諏訪神社）.jpg" width="150" title="金神 水神／守護所"></a></td>
   </tr>
   <tr>
     <td>大正15年</td>
-    <td><img src="./photo/日天月天水神金神碑（妙法加藤明神）.jpg" width="150" title="日天 月天／水神 金神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:日天月天水神金神碑（妙法加藤明神）.jpg"><img src="./photo/日天月天水神金神碑（妙法加藤明神）.jpg" width="150" title="日天 月天／水神 金神"></a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -184,19 +184,19 @@
     <td>昭和2年</td>
     <td></td>
     <td></td>
-    <td><img src="./photo/八大龍王塔（大島中ノ郷のヤツボ）.jpg" width="150" title="大日天 八大龍王塔 大月天"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:八大龍王塔（大島中ノ郷のヤツボ）.jpg"><img src="./photo/八大龍王塔（大島中ノ郷のヤツボ）.jpg" width="150" title="大日天 八大龍王塔 大月天"></a></td>
     <td></td>
   </tr>
   <tr>
     <td>昭和8年</td>
     <td></td>
-    <td><img src="./photo/日天月天金神碑（町田市相原町）.jpg" width="150" title="日天 月天／金神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:日天月天金神碑（町田市相原町）.jpg"><img src="./photo/日天月天金神碑（町田市相原町）.jpg" width="150" title="日天 月天／金神"></a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>不明</td>
-    <td><img src="./photo/南無辨天碑（市杵島神社）.jpg" width="150" title="日天 月天／金神 南無辨天 水神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:南無辨天碑（市杵島神社）.jpg"><img src="./photo/南無辨天碑（市杵島神社）.jpg" width="150" title="日天 月天／金神 南無辨天 水神"></a></td>
     <td></td>
     <td></td>
     <td></td>
