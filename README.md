@@ -143,6 +143,15 @@
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護神碑（中野神社）.jpg" width="150" title="妙法守護神"></td>
   </tr>
   <tr>
+    <td>昭和24年</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/南無妙法二神碑（金太郎権現山）.jpg" width="150" title="日天王 南無妙法二神 月天王"></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>不明</td>
     <td></td>
     <td></td>
