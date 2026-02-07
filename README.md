@@ -53,18 +53,18 @@
   </tr>
   <tr>
     <td>明治16年</td>
-    <td><img src="./photo/妙法守護碑（町田市相原町）2.jpg" width="150" title="日天 月天／妙法守護／金神 水神"><br>
-        <img src="./photo/妙法守護碑（町田市・大戸観音堂）.jpg" width="150" title="日天 妙法 月天／金神 水神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護碑（町田市相原町）2.jpg"><img src="./photo/妙法守護碑（町田市相原町）2.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></a><br>
+        <a href="https://commons.wikimedia.org/wiki/File:妙法守護碑（町田市・大戸観音堂）.jpg"><img src="./photo/妙法守護碑（町田市・大戸観音堂）.jpg" width="150" title="日天 妙法 月天／金神 水神"></a></td>
     <td></td>
     <td></td>
-    <td><img src="./photo/妙法金神碑（相模原市緑区牧野）.jpg" width="150" title="妙法金□"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法金神碑（相模原市緑区牧野）.jpg"><img src="./photo/妙法金神碑（相模原市緑区牧野）.jpg" width="150" title="妙法金□"></a></td>
     <td></td>
-    <td><img src="./photo/妙法守護雄神碑（町田市・七面堂）.jpg" width="150" title="妙法守護雄神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護雄神碑（町田市・七面堂）.jpg"><img src="./photo/妙法守護雄神碑（町田市・七面堂）.jpg" width="150" title="妙法守護雄神"></a></td>
   </tr>
   <tr>
     <td>明治17年</td>
-    <td><img src="./photo/妙法守護碑（相模原市緑区中野）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
-    <td><img src="./photo/妙法金神水神碑（相模原市緑区根小屋）.jpg" width="150" title="妙法金神水神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護碑（相模原市緑区中野）.jpg"><img src="./photo/妙法守護碑（相模原市緑区中野）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></a></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法金神水神碑（相模原市緑区根小屋）.jpg"><img src="./photo/妙法金神水神碑（相模原市緑区根小屋）.jpg" width="150" title="妙法金神水神"></a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>明治18年</td>
-    <td><img src="./photo/妙法守護碑（相模原市中央区宮下本町）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護碑（相模原市中央区宮下本町）.jpg"><img src="./photo/妙法守護碑（相模原市中央区宮下本町）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -81,7 +81,7 @@
   </tr>
   <tr>
     <td>明治20年</td>
-    <td><img src="./photo/妙法守護碑（駒木野稲荷神社）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護碑（駒木野稲荷神社）.jpg"><img src="./photo/妙法守護碑（駒木野稲荷神社）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td>明治28年</td>
-    <td><img src="./photo/妙法守護碑（厚木市金田）.jpg" width="150" title="日天 月天／妙法三十番神守護／金神 水神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護碑（厚木市金田）.jpg"><img src="./photo/妙法守護碑（厚木市金田）.jpg" width="150" title="日天 月天／妙法三十番神守護／金神 水神"></a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -100,7 +100,7 @@
   <tr>
     <td>明治44年</td>
     <td></td>
-    <td><img src="./photo/妙法守護碑（昭島市・観音寺）.jpg" width="150" title="妙法守護／金神 水神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護碑（昭島市・観音寺）.jpg"><img src="./photo/妙法守護碑（昭島市・観音寺）.jpg" width="150" title="妙法守護／金神 水神"></a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -113,13 +113,13 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="./photo/妙法守護神碑（妙法加藤明神）.jpg" width="150" title="妙法守護神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護神碑（妙法加藤明神）.jpg"><img src="./photo/妙法守護神碑（妙法加藤明神）.jpg" width="150" title="妙法守護神"></a></td>
   </tr>
   <tr>
     <td>昭和3年</td>
     <td></td>
     <td></td>
-    <td><img src="./photo/日天月天妙法守護金神碑（相模原市緑区青野原）.jpg" width="150" title="日天 妙法守護金神 月天"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:日天月天妙法守護金神碑（相模原市緑区青野原）.jpg"><img src="./photo/日天月天妙法守護金神碑（相模原市緑区青野原）.jpg" width="150" title="日天 妙法守護金神 月天"></a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -129,7 +129,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="./photo/妙法金神社碑（中野神社）.jpg" width="150" title="妙法金神社"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法金神社碑（中野神社）.jpg"><img src="./photo/妙法金神社碑（中野神社）.jpg" width="150" title="妙法金神社"></a></td>
     <td></td>
     <td></td>
   </tr>
@@ -140,7 +140,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="./photo/妙法守護神碑（中野神社）.jpg" width="150" title="妙法守護神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護神碑（中野神社）.jpg"><img src="./photo/妙法守護神碑（中野神社）.jpg" width="150" title="妙法守護神"></a></td>
   </tr>
   <tr>
     <td>昭和24年</td>
@@ -148,7 +148,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="./photo/南無妙法二神碑（金太郎権現山）.jpg" width="150" title="日天王 南無妙法二神 月天王"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:南無妙法二神碑（金太郎権現山）.jpg"><img src="./photo/南無妙法二神碑（金太郎権現山）.jpg" width="150" title="日天王 南無妙法二神 月天王"></a></td>
     <td></td>
   </tr>
   <tr>
@@ -158,7 +158,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="./photo/妙法守護水神碑（志田山朝日寺）.jpg" width="150" title="妙法／守護水神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護水神碑（志田山朝日寺）.jpg"><img src="./photo/妙法守護水神碑（志田山朝日寺）.jpg" width="150" title="妙法／守護水神"></a></td>
   </tr>
 </table>
 
