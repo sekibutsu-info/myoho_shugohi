@@ -28,28 +28,28 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護金神碑（志田山朝日寺）.jpg" target="_blank"><img src="./photo/妙法守護金神碑（志田山朝日寺）.jpg" width="150" title="妙法守護金神"></a></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護金神碑（志田山朝日寺）.jpg"><img src="./photo/妙法守護金神碑（志田山朝日寺）.jpg" width="150" title="妙法守護金神"></a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>明治13年</td>
     <td></td>
-    <td><img src="./photo/妙法水神金神守護碑（相模原市緑区青根）.jpg" width="150" title="妙法水神金神守護"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法水神金神守護碑（相模原市緑区青根）.jpg"><img src="./photo/妙法水神金神守護碑（相模原市緑区青根）.jpg" width="150" title="妙法水神金神守護"></a></td>
     <td></td>
-    <td><img src="./photo/妙法守護金神碑（井原寺）.jpg" width="150" title="妙法守護金神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護金神碑（井原寺）.jpg"><img src="./photo/妙法守護金神碑（井原寺）.jpg" width="150" title="妙法守護金神"></a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>明治15年</td>
-    <td><img src="./photo/妙法守護碑（八王子市・善龍寺）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
-    <td><img src="./photo/妙法守護碑（相模原市緑区又野）.jpg" width="150" title="妙法守護／金神 水神"></td></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護碑（八王子市・善龍寺）.jpg"><img src="./photo/妙法守護碑（八王子市・善龍寺）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></a></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法守護碑（相模原市緑区又野）.jpg"><img src="./photo/妙法守護碑（相模原市緑区又野）.jpg" width="150" title="妙法守護／金神 水神"></td></a></td>
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="./photo/妙法大嶋明神守碑（八王子市・七面堂）.jpg" width="150" title="妙法大嶋明神守"><br>
-        <img src="./photo/妙法市明神碑（町田市・七面堂）.jpg" width="150" title="妙法市明神"></td>
+    <td><a href="https://commons.wikimedia.org/wiki/File:妙法大嶋明神守碑（八王子市・七面堂）.jpg"><img src="./photo/妙法大嶋明神守碑（八王子市・七面堂）.jpg" width="150" title="妙法大嶋明神守"></a><br>
+        <a href="https://commons.wikimedia.org/wiki/File:妙法市明神碑（町田市・七面堂）.jpg"><img src="./photo/妙法市明神碑（町田市・七面堂）.jpg" width="150" title="妙法市明神"></a></td>
   </tr>
   <tr>
     <td>明治16年</td>
