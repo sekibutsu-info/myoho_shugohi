@@ -18,18 +18,18 @@
 狭義と広義の妙法守護碑（保留と未定義は除く）の![分布地図はこちら](https://github.com/sekibutsu-info/myoho_shugohi/blob/main/%E5%A6%99%E6%B3%95%E5%AE%88%E8%AD%B7%E7%A2%91.geojson)
 
 ### 年表
-#### 妙法守護碑
+#### 妙法守護碑（狭義／広義）
 <table>
-  <tr><th rowspan="3">造立年</th?><th colspan="3">日天月天あり</th><th colspan="3">日天月天なし</th></tr>
-  <tr><th>金神水神あり</th><th>金神のみ</th><th>金神水神なし</th><th>金神水神あり</th><th>金神のみ</th><th>金神水神なし</th></tr>
-  <tr><th>狭義</th><th colspan="2">広義</th><th>狭義</th><th colspan="2">広義</th></tr>
+  <tr><th rowspan="3">造立年</th><th colspan="2">金神水神あり</th><th colspan="2">金神のみ</th><th colspan="2">金神水神なし</th></tr>
+  <tr><th>日天月天あり</th><th>日天月天なし</th><th>日天月天あり</th><th>日天月天なし</th><th>日天月天あり</th><th>日天月天なし</th></tr>
+  <tr><th colspan="2">狭義</th><th colspan="4">広義</th></tr>
   <tr>
     <td>明治12年</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護金神碑（志田山朝日寺）.jpg" width="150" title="妙法守護金神"></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -37,16 +37,16 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護金神碑（井原寺）.jpg" width="150" title="妙法守護金神"></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>明治15年</td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（八王子市・善龍寺）.jpg" width="150" title="日天 月天／妙法守護／金神 水神"></td>
-    <td></td>
-    <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（相模原市緑区又野）.jpg" width="150" title="妙法守護／金神 水神"></td></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法大嶋明神守碑（八王子市・七面堂）.jpg" width="150" title="妙法大嶋明神守"><br>
         <img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法市明神碑（町田市・七面堂）.jpg" width="150" title="妙法市明神"></td>
@@ -57,8 +57,8 @@
         <img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（町田市・大戸観音堂）.jpg" width="150" title="日天 妙法 月天／金神 水神"></td>
     <td></td>
     <td></td>
-    <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法金神碑（相模原市緑区牧野）.jpg" width="150" title="妙法金□"></td>
+    <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護雄神碑（町田市・七面堂）.jpg" width="150" title="妙法守護雄神"></td>
   </tr>
   <tr>
@@ -100,9 +100,9 @@
   <tr>
     <td>明治44年</td>
     <td></td>
-    <td></td>
-    <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護碑（昭島市・観音寺）.jpg" width="150" title="妙法守護／金神 水神"></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -118,8 +118,8 @@
   <tr>
     <td>昭和3年</td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/日天月天妙法守護金神碑（相模原市緑区青野原）.jpg" width="150" title="日天 妙法守護金神 月天"></td>
     <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/日天月天妙法守護金神碑（相模原市緑区青野原）.jpg" width="150" title="日天 妙法守護金神 月天"></td>
     <td></td>
     <td></td>
     <td></td>
@@ -129,18 +129,9 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
     <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法金神社碑（中野神社）.jpg" width="150" title="妙法金神社"></td>
     <td></td>
-  </tr>
-  <tr>
-    <td>昭和12年</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護道祖神（御嶽神社）.jpg" width="150" title="妙法守護道祖神"></td>
   </tr>
   <tr>
     <td>昭和21年</td>
@@ -157,12 +148,12 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護水神碑（志田山朝日寺）.jpg" width="150" title="妙法／守護水神"></td>
     <td></td>
+    <td><img src="https://github.com/sekibutsu-info/myoho_shugohi/blob/main/photo/妙法守護水神碑（志田山朝日寺）.jpg" width="150" title="妙法／守護水神"></td>
   </tr>
 </table>
 
-#### 未定義
+#### 未定義（「妙法」なし）
 <table>
   <tr><th rowspan="2">造立年</th><th colspan="3">日天月天あり</th><th>日天月天なし</th></tr>
   <tr><th>金神水神あり</th><th>金神のみ</th><th>金神水神なし</th><th>金神水神あり</th></tr>
